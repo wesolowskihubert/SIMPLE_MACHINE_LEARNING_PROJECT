@@ -1,1 +1,1 @@
-﻿# simple-ml-project
+﻿# music-genre-ml-project
